@@ -8,6 +8,7 @@
 
 -### here are my projects
 -[React project 2 -password validator](https://github.com/vishalP143/reactProjects1/tree/main/password-validator)
+-[React project 1 -wordLetterCounter](https://github.com/vishalP143/reactProjects1/tree/main/word-letter-counter)
 <!---
 vishalP143/vishalP143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
