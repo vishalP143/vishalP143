@@ -7,7 +7,9 @@
 - ⚡ Fun fact: ...
 
 -### here are my projects
+
 -[React project 2 -password validator](https://github.com/vishalP143/reactProjects1/tree/main/password-validator)
+
 -[React project 1 -wordLetterCounter](https://github.com/vishalP143/reactProjects1/tree/main/word-letter-counter)
 
 <!---
