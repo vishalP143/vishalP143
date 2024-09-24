@@ -12,6 +12,7 @@
 
 -[React project 1 -wordLetterCounter](https://github.com/vishalP143/reactProjects1/tree/main/word-letter-counter)
 
+-[React project 3 using axios-wordLetterCounter](https://github.com/vishalP143/reactProjects1/tree/main/lyrics-finder)
 <!---
 vishalP143/vishalP143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
