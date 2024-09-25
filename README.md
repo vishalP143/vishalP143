@@ -1,4 +1,7 @@
-![Header](./your-header-image-name.png)
+<p align="center">
+  <img src="https://github.com/vishalP143/vishalP143/blob/main/github-header-image.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Vishal Pradhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalp143&label=Profile%20views&color=0e75b6&style=flat" alt="vishalp143" /> </p>
