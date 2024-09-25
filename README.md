@@ -12,6 +12,12 @@
 
 - ⚡ Fun fact **I love to work on team**
 
+-   **Here are my projects**
+
+- [Basic Express app with CRUD operations](https://github.com/vishalP143/project)
+- [Sample Express CRUD operation with MongoDB connection](https://github.com/vishalP143/Basic-CRUD-app-with-Express-level-2-with-MongoDB)
+- [Some basic React app projects](https://github.com/vishalP143/reactProjects1)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishal pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal pradhan" height="30" width="40" /></a>
