@@ -21,7 +21,7 @@
 -  [Basic React Project for word-letter-counter](https://github.com/vishalP143/reactProjects1/tree/main/word-letter-counter)
 -  [Basic React Project for password-validator](https://github.com/vishalP143/reactProjects1/tree/main/password-validator)
 -  [Basic React Project for weather finder](https://github.com/vishalP143/reactProjects1/tree/main/weather)
--  [Basic React Project for lrics-finder](https://github.com/vishalP143/reactProjects1/tree/main/lyrics-finder)
+-  [Basic React Project for lyrics-finder](https://github.com/vishalP143/reactProjects1/tree/main/lyrics-finder)
 -  [Basic React Project for axios-lab](https://github.com/vishalP143/reactProjects1/tree/main/axios-lab)
 -  
 <h3 align="left">Connect with me:</h3>
