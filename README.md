@@ -12,12 +12,18 @@
 
 - ⚡ Fun fact **I love to work on team**
 
--   **Here are my projects**
+-   **Here are my Express Projects**
 
 - [Basic Express app with CRUD operations](https://github.com/vishalP143/project)
 - [Sample Express CRUD operation with MongoDB connection](https://github.com/vishalP143/Basic-CRUD-app-with-Express-level-2-with-MongoDB)
-- [Some basic React app projects](https://github.com/vishalP143/reactProjects1)
 
+-  **Here are my React Projects**
+-  [Basic React Project for word-letter-counter](https://github.com/vishalP143/reactProjects1/tree/main/word-letter-counter)
+-  [Basic React Project for password-validator](https://github.com/vishalP143/reactProjects1/tree/main/password-validator)
+-  [Basic React Project for weather finder](https://github.com/vishalP143/reactProjects1/tree/main/weather)
+-  [Basic React Project for lrics-finder](https://github.com/vishalP143/reactProjects1/tree/main/lyrics-finder)
+-  [Basic React Project for axios-lab](https://github.com/vishalP143/reactProjects1/tree/main/axios-lab)
+-  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishal pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal pradhan" height="30" width="40" /></a>
