@@ -24,7 +24,7 @@
 -  [Basic React Project for lyrics-finder](https://github.com/vishalP143/reactProjects1/tree/main/lyrics-finder)
 -  [Basic React Project for axios-lab](https://github.com/vishalP143/reactProjects1/tree/main/axios-lab)
 -  [Basic React Project for react-router-lab](https://github.com/vishalP143/reactProjects1/tree/main/react-router-lab)
--  
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-pradhan-65901b327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal pradhan" height="30" width="40" /></a>
