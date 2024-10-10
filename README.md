@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **vishal.p8070@gmail.com**
 
-- ⚡ Fun fact **I love to work on team**
+- ⚡ Fun fact **I love to work with team**
 
 -   **Here are my Express Projects**
 
