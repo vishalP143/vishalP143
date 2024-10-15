@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalp143&label=Profile%20views&color=0e75b6&style=flat" alt="vishalp143" /> </p>
 
-- 🌱 I’m currently learning **React,Node js,Express,Material**
+- 🌱 I’m currently learning **React,Node js,Express**
 
 - 📫 How to reach me **vishal.p8070@gmail.com**
 
