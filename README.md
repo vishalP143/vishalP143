@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I love to work with team**
 
--   **Here are my Some Express Projects**
+-   **Here are my Express Projects**
 
 - [Basic Express app with CRUD operations](https://github.com/vishalP143/project)
 - [Sample Express CRUD operation with MongoDB connection](https://github.com/vishalP143/Basic-CRUD-app-with-Express-level-2-with-MongoDB)
